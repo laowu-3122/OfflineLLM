@@ -1,0 +1,18 @@
+```xml
+<resources>
+    <style name="Theme.OfflineLLM" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#007AFF</item>
+        <item name="colorPrimaryVariant">#0051D5</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
+```
+
+
+
+
+
+
+
+
+
